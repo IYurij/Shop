@@ -1,0 +1,14 @@
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.exe
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.deps.json
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.runtimeconfig.json
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.runtimeconfig.dev.json
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.dll
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop1.pdb
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.csproj.AssemblyReference.cache
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.AssemblyInfoInputs.cache
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.AssemblyInfo.cs
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.csproj.CoreCompileInputs.cache
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.dll
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.pdb
+D:\my-study\ijunior\Cs\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop1.genruntimeconfig.cache
